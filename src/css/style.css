@@ -1,0 +1,26 @@
+span {
+  font-weight: bolder;
+  color: white;
+}
+
+body {
+  background-image: url("http://wallpapercave.com/wp/AoKbB6q.jpg");
+  color: white;
+}
+
+.cardsArea{
+  margin-top: 60px;
+  margin-left: 30px;
+}
+
+.btnGroup {
+  margin-top: 60px;
+}
+
+.resultArea {
+  border:0px dashed #02390f;
+  height: 80px;
+  width: 150px;
+  margin-bottom: 10px;
+  color: yellow;
+}
